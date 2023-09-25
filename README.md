@@ -1,4 +1,7 @@
 <div>
+    <h2>박진용 (JinYong Park)</h2>
+</div>
+<div>
     <h3>🛠️ Skills</h3>
 </div>
 <br/>
@@ -14,10 +17,11 @@
     <img src="https://img.shields.io/badge/Intellij-000000?style=flat-square&logo=Intellij IDEA&logoColor=white" />
 </div>
 
-
+<br/>
 <div>
     <h3>ℹ️ Profiles</h3>
 </div>
+
 
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=mej1406)](https://solved.ac/mej1406)
 
